@@ -58,6 +58,7 @@ https://docs.microsoft.com/en-us/archive/blogs/cansql/relationships-in-power-bi-
     - **Note:** 99.99% we will have many to one relation tables in any dataset
   - Slicer items "with data"
   - Dimension-to-dimension analysis
+10- what is Dimension-to-dimension analysis ?
   
   
    
