@@ -196,6 +196,9 @@ https://docs.microsoft.com/en-us/learn/paths/dax-power-bi/
             - **Visual use** - Calculated columns (like any column) can be used to filter, group, or summarize (as an implicit measure), whereas measures are designed to summarize.
 
 
+1.  https://user-images.githubusercontent.com/42098017/113729070-233d7d00-96a3-11eb-9177-fce03069c02f.png) GETTING THIS ERROR,i tryed several times i cant figure whats wrong. 
+
+
  
 
 
